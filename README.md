@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-28 at 21 40 28]
-(https://user-images.githubusercontent.com/65309888/156112512-aff0604e-303b-4e54-ae34-01b9a80f9b52.gif)
+![INSTAGIF](https://user-images.githubusercontent.com/65309888/156112673-8017c4ff-ee21-45a2-82fa-fb5221633e40.gif)
