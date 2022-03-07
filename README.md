@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
- 
+ <img src="INSTAGRAM2.gif" width=250><br>
 
 
 
